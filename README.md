@@ -1,5 +1,5 @@
 # Trading-Bot
-Overview
+
 A simple command-line bot to place market buy/sell orders on Binance Futures (Testnet by default) 🚀.
 It:
 Connects to Binance Futures using python-binance 🔌
