@@ -126,6 +126,3 @@ Only market orders supported 🛑.
 No risk management (no SL/TP) by default ⚠️.
 No persistence or order tracking 🗂️🔑.
 
-Tips
-
-Use emoji shortcodes like :rocket:, :warning:, :lock:, etc.—GitHub will autocomplete afte
